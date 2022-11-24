@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29679142312",
+    "project_id": "choisquidgame",
+    "storage_bucket": "choisquidgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29679142312:android:3e5542fd891574a159c99d",
+        "android_client_info": {
+          "package_name": "com.example.choisquidgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29679142312-b0s2p5vsh5higqr5nel4uhg2c8e9caq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.choisquidgame",
+            "certificate_hash": "c36c77afcf2510f146ed06006e1fd92aa3980957"
+          }
+        },
+        {
+          "client_id": "29679142312-r5kq6as2h7mq1a9q3370qho5hb9je2sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuPtnSEnhvQJEfm6j-kbMQ2VVbAm_MS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29679142312-r5kq6as2h7mq1a9q3370qho5hb9je2sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
